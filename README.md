@@ -16,7 +16,7 @@ This simple tool helps you to calculate your Body Mass Index (BMI), a measure of
 - **Obese**: BMI ≥ 30
 
 ## Calculate your BMI now!
-Click here: [BMI Calculator](https://megzz24.github.io/BMI-calculator)
+Click here: [BMI Calculator](https://megzz24.github.io/BMI-calculator/)
 
 ## 📸Screenshot
 
