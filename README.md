@@ -26,6 +26,3 @@ Click here: [BMI Calculator](https://megzz24.github.io/BMI-calculator/)
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-## ❗Disclaimer
-
-BMI is only an estimate that cannot take body composition into account. Always consult a healthcare professional for personalized advice.
